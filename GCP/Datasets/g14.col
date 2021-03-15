@@ -12,7 +12,7 @@ c COLOR VERIFICATION: Using thpermuted order
 c under simplgreedy yields thspecified
 c coloring number
 c Color = 28 specified partitions = 28
-@ 300 40
+@ 300 28
 2 1
 5 2
 5 3
